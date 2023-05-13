@@ -1,4 +1,4 @@
-# Poleftus Interactive 
+# 🐦 Poleftus Interactive 
 
 Poleftus Interactive is a development studio working mainly in javascript on projects of all kinds.
 
