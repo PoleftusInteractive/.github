@@ -1,12 +1,18 @@
-## Hi there 👋
+# Poleftus Interactive 
 
-<!--
+Poleftus Interactive is a development studio working mainly in javascript on projects of all kinds.
 
-**Here are some ideas to get you started:**
+## Actual Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🧙 Atenerve
+
+Atenerve is a discord bot with an integrated RPG. This one is very complete and promotes the meeting between the players. Atenerve is currently under development and is therefore not accessible to the public. You can still join our [support server](https://discord.gg/CrQ7UTN8am) to know the progress of the project.
+
+```
+gfg
+```
+
+
+
+
+👩‍💻
