@@ -16,6 +16,6 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 
 ---
 
-
+## Informations 
 
 👩‍💻
