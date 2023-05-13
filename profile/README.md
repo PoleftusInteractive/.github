@@ -26,6 +26,10 @@ We sometimes put some of our code on our github to benefit the entire community 
 
 Anyone can use our code since we make it available to everyone, but we ask that you please credit/mention us in order to indicate who was at the origin of your creations anyway.
 
+```
+Made by [@PoleftusInteractive]
+```
+
 ### ❤️ Credits
 
 * 🗃️ Lead Projects: [Ponexi](https://github.com/PoNexiOFF)
