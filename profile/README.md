@@ -43,4 +43,7 @@ Made by [@PoleftusInteractive](https://github.com/PoleftusInteractive) and reuse
   <a href="https://twitter.com/poleftus">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="[https://twitter.com/poleftus](https://discord.gg/CrQ7UTN8am)">
+    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
