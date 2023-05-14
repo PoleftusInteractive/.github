@@ -35,8 +35,8 @@ Made by [@PoleftusInteractive](https://github.com/PoleftusInteractive) and reuse
 ### ❤️ Credits
 
 * 🗃️ Lead Projects: [Ponexi](https://github.com/PoNexiOFF)
-* <p>🖥️ Lead Developers: PhoenixMaster</h3>
-* <p>💻 Other Developer: /</h3>
+* 🖥️ Lead Developers: PhoenixMaster
+* 💻 Other Developer: [Zacharry Jones](https://github.com/ZacharryJones)
 
 <div id="badges" align="center">
   <a href="https://www.youtube.com/@poleftusinteractive/">
