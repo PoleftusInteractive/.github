@@ -34,7 +34,7 @@ Made by [@PoleftusInteractive](https://github.com/PoleftusInteractive) and reuse
 
 ### ❤️ Credits
 
-Director: [Marc Norbert]()
+Director: [Marc Norbert](https://github.com/MarcNorbert)
 
 * 🗃️ Lead Projects: [Ponexi](https://github.com/PoNexiOFF)
 * 🖥️ Lead Developers: PhoenixMaster
