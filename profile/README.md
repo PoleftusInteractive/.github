@@ -16,6 +16,8 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 [In Development] version 0.0.0 snapchot 0.0 (devbuild)
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=Atenerve&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Informations 
