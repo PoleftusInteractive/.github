@@ -17,8 +17,11 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ```
 
 <div id="badges" align="center">
-  <a href="https://www.youtube.com/@poleftusinteractive/">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=Atenerve" alt="YouTube Badge"/>
+  </a>
+    <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoleftusInteractive&repo=Atenerve-src" alt="YouTube Badge"/>
   </a>
 </div>
 
