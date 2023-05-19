@@ -13,7 +13,7 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 #### Development Status
 
 ```
-[In Development] version 0.0.0 snapchot 0.1 (devbuild)
+[In Development] version 0.0.0 snapchot 0.0 (devbuild)
 ```
 
 ---
