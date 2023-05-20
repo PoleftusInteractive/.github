@@ -17,7 +17,7 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ```
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="https://github.com/PoNexiOFF/Atenerve">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=Atenerve" alt="pin1"/>
   </a>
     <a href="">
